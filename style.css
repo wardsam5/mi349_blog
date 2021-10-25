@@ -1,6 +1,7 @@
 body {
 	font-family: Arial;
 	margin: 50px;
+	background: gray;
 }
 
 h1 {
@@ -12,5 +13,5 @@ p {
 }
 
 .blog-title {
-	
+	color: red;
 }
