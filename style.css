@@ -36,10 +36,18 @@ ul {
 	background: white;
 }
 
+.navigation-links {
+	text-decoration: none;
+}
+
 .navigation-links a:visited{
 	color: black;
 }
 
+.navigation-links a:link{
+	color: black;
+}
+
 .navigation-links a:hover {
-	color: pink;
+	color: red;
 }
