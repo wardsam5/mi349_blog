@@ -9,10 +9,14 @@ h1 {
 }
 
 p {
-	width: 50%;
-	text-align: center;
+	
 }
 
 .blog-title {
 	color: red;
+}
+
+.blog-post {
+	width: 50%;
+	text-align: center;
 }
