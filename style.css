@@ -6,8 +6,8 @@ body {
 	text-align: center;
 }
 
-h1 {
-	margin: 0;
+.section-heading {
+	margin: 25px;
 }
 
 p {
