@@ -36,9 +36,10 @@ ul {
 	background: white;
 }
 
-.navigation-links{
+.navigation-links a:visited{
+	color: black;
 }
 
 a:hover {
-	color: black;
+	color: pink;
 }
