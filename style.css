@@ -31,3 +31,7 @@ ul {
 	display: table;
 	margin: 0 auto;
 }
+
+.blog-post-container {
+	background: white;
+}
