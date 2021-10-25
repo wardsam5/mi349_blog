@@ -57,10 +57,12 @@ input[type="text"] {
 
 textarea {
 	background: #FFFDD0;
-	margin-top:15px;
-	margin-bottom:15px
 }
 
 select {
 	background: #FFFDD0;
+}
+
+h2 {
+	color: red;
 }
