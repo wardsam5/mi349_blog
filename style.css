@@ -35,3 +35,7 @@ ul {
 .blog-post-container {
 	background: white;
 }
+
+.navigation-links a:link{
+	color: black;
+}
