@@ -50,3 +50,7 @@ ul {
 	color: red;
 	text-decoration: none;
 }
+
+input[type="text"] {
+	background: black;
+}
