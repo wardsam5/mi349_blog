@@ -54,3 +54,11 @@ ul {
 input[type="text"] {
 	background: #FFFDD0;
 }
+
+textarea {
+	background: #FFFDD0;
+}
+
+select {
+	background: #FFFDD0;
+}
