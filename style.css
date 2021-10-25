@@ -36,6 +36,9 @@ ul {
 	background: white;
 }
 
-.navigation-links a:link{
+.navigation-links{
+}
+
+a:link {
 	color: black;
 }
