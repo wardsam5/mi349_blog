@@ -40,6 +40,6 @@ ul {
 	color: black;
 }
 
-a:hover {
+.navigation-links a:hover {
 	color: pink;
 }
