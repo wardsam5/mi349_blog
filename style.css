@@ -22,6 +22,6 @@ p {
 	
 }
 
-table {
+body > table {
 	margin-left: 50%;
 }
