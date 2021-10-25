@@ -2,6 +2,8 @@ body {
 	font-family: Arial;
 	margin: 50px;
 	background: #e3e3e3;
+	width: 50%;
+	text-align: center;
 }
 
 h1 {
@@ -17,6 +19,5 @@ p {
 }
 
 .blog-post {
-	width: 50%;
-	text-align: center;
+	
 }
