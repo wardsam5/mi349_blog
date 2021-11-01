@@ -41,12 +41,12 @@ ul {
 }
 
 #pc-figure {
+	width: 25%;
+    height: 25%;
 	float: left;
 }
 
 #pc-image {
-	width: 25%;
-    height: 25%;
 	float: left;
 }
 
