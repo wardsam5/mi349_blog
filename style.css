@@ -87,5 +87,11 @@ h2 {
 }
 
 #image-paragraph {
-	margin-bottom: 125px;
+	margin-bottom: 150px;
+}
+
+#image-caption {
+	position: absolute;
+	top: 200px;
+	left: 100px;
 }
