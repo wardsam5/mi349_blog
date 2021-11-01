@@ -6,6 +6,11 @@ body {
 	text-align: center;
 }
 
+.top-nav {
+	display: sticky;
+	top: 0;
+}
+
 #web-main-title {
 	margin: 25px;
 }
@@ -72,9 +77,4 @@ h2 {
 .blog-posts {
 	background: white;
 	display: flex;
-}
-
-.top-nav {
-	display: sticky;
-	top: 0;
 }
