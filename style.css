@@ -89,3 +89,7 @@ h2 {
 #image-paragraph {
 	margin-bottom: 125px;
 }
+
+#image-paragraph div {
+	width: 100px;
+}
