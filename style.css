@@ -41,6 +41,7 @@ ul {
 }
 
 #pc-image {
+	object-fit: cover;
 	float: left;
 }
 
