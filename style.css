@@ -6,7 +6,7 @@ body {
 	text-align: center;
 }
 
-.top-nav {
+header {
 	position: -webkit-sticky;
 	display: sticky;
 	top: 0;
