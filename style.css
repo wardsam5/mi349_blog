@@ -38,7 +38,10 @@ ul {
 .blog-post-container {
 	background: white;
 	padding: 25px;
-	
+}
+
+#pc-image {
+	float: left;
 }
 
 header a:visited{
