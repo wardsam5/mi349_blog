@@ -85,3 +85,7 @@ h2 {
 	background: white;
 	display: flex;
 }
+
+#image-paragraph {
+	margin-bottom: 50px;
+}
