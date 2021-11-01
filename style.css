@@ -35,6 +35,7 @@ ul {
 }
 
 header {
+	position: -webkit-sticky;
 	display: sticky;
 	top: 0;
 }
