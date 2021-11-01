@@ -92,6 +92,9 @@ h2 {
 
 #contact-form {
 	display: flex;
+}
+
+#contact-form label {
 	padding-left: 10px;
 	padding-right: 10px;
 }
