@@ -79,6 +79,7 @@ h2 {
 
 .contact-section {
 	background: white;
+	display: flex;
 }
 
 .blog-posts {
