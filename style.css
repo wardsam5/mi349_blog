@@ -6,7 +6,7 @@ body {
 	text-align: center;
 }
 
-header {
+body header {
 	position: -webkit-sticky;
 	display: sticky;
 	top: 0px;
