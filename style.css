@@ -79,7 +79,6 @@ h2 {
 
 .contact-section {
 	background: white;
-	display: flex;
 }
 
 .blog-posts {
@@ -89,4 +88,8 @@ h2 {
 
 #image-paragraph {
 	margin-bottom: 125px;
+}
+
+#contact-form {
+	display: flex;
 }
