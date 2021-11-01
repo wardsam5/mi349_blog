@@ -40,15 +40,9 @@ ul {
 	padding: 25px;
 }
 
-#pc-figure {
+#pc-image {
 	width: 25%;
     height: 25%;
-	float: left;
-}
-
-#pc-image {
-	width: 50%;
-    height: 50%;
 	float: left;
 }
 
