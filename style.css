@@ -34,6 +34,11 @@ ul {
 	
 }
 
+header {
+	display: sticky;
+	top: 0;
+}
+
 header a:visited{
 	color: black;
 	text-decoration: none;
