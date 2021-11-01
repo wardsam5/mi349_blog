@@ -20,6 +20,7 @@ p {
 
 .blog-post {
 	background: white;
+	display: flex;
 }
 
 body table {
