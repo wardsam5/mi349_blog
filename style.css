@@ -89,14 +89,3 @@ h2 {
 #image-paragraph {
 	margin-bottom: 125px;
 }
-
-#contact-form {
-	display: flex;
-	margin: auto;
-	width: 50%;
-}
-
-#contact-form label {
-	padding-left: 10px;
-	padding-right: 10px;
-}
