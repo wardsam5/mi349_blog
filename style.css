@@ -80,6 +80,10 @@ h2 {
 	display: flex;
 }
 
+#image-paragraph {
+	margin-bottom: 25px;
+}
+
 #float {
 	float: left;
 	width: 150px;
