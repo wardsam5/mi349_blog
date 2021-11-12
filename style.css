@@ -107,7 +107,4 @@ h2 {
 		display: flex;
 		flex-wrap: wrap;
 	}
-	header {
-		width: 400px;
-	}
 }
