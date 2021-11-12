@@ -96,7 +96,7 @@ h2 {
     height: 75%;
 }
 
-@media screen and (max-width: 400px){
+@media (max-width: 400px){
 	.blog-posts {
 		flex-wrap: wrap;
 	}
@@ -108,6 +108,6 @@ h2 {
 		flex-wrap: wrap;
 	}
 	header {
-		width: 90vw;
+		width: 400px;
 	}
 }
