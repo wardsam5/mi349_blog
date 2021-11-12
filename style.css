@@ -100,6 +100,9 @@ h2 {
 	.blog-posts {
 		flex-wrap: wrap;
 	}
+	.blog-post-container{
+		width: 400px;
+	}
 	.picture-image{
 		display: flex;
 		flex-wrap: wrap;
