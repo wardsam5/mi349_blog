@@ -100,8 +100,8 @@ h2 {
 	.blog-posts {
 		flex-wrap: wrap;
 	}
-	.blog-post-container{
-		width: 400px;
+	#msu-img {
+		width: 275px;
 	}
 	.picture-image{
 		display: flex;
