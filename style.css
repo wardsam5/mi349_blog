@@ -100,4 +100,8 @@ h2 {
 	.blog-posts {
 		flex-wrap: wrap;
 	}
+	.picture-image{
+		display: flex;
+		flex-wrap: wrap;
+	}
 }
