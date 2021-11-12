@@ -96,7 +96,7 @@ h2 {
     height: 75%;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 400px){
 	.blog-posts {
 		flex-wrap: wrap;
 	}
