@@ -97,7 +97,7 @@ h2 {
 }
 
 @media (max-width: 600px){
-	body {
+	.blog-posts {
 		background: red;
 	}
 }
