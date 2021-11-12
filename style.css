@@ -11,6 +11,8 @@ header {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0px;
+	padding-left: 12.5px;
+	padding-right: 12.5px;
 }
 
 #web-main-title {
@@ -37,6 +39,7 @@ ul {
 
 .blog-post-container {
 	background: white;
+	padding: 25px;
 }
 
 header a:visited{
